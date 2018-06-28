@@ -1,4 +1,4 @@
-# macsepc.github.io
+# macspec.github.io
 <!DOCTYPE html>
 <html>
 <body>
