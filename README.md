@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Mac</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>MacSpectrum</h1>
+<p>This is the site for MacSpectrum.</p>
 </body>
 </html>
